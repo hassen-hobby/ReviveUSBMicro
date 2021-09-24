@@ -1,13 +1,13 @@
-ReviveUSB‚Ì‰ü‘¢ƒtƒ@[ƒ€ƒEƒFƒA
+ReviveUSBã®æ”¹é€ ãƒ•ã‚¡ãƒ¼ãƒ ã‚¦ã‚§ã‚¢
 
-ƒŒƒgƒƒQ[ƒ€iPCƒGƒ“ƒWƒ“AƒƒKƒhƒ‰ƒCƒuAƒX[ƒp[ƒtƒ@ƒ~ƒRƒ“j‚ÌƒRƒ“ƒgƒ[ƒ‰[‚ð–³‰ü‘¢‚ÅÚ‘±‚Å‚«‚é
+ãƒ¬ãƒˆãƒ­ã‚²ãƒ¼ãƒ ï¼ˆPCã‚¨ãƒ³ã‚¸ãƒ³ã€ãƒ¡ã‚¬ãƒ‰ãƒ©ã‚¤ãƒ–ã€ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒ•ã‚¡ãƒŸã‚³ãƒ³ï¼‰ã®ã‚³ãƒ³ãƒˆãƒ­ãƒ¼ãƒ©ãƒ¼ã‚’ç„¡æ”¹é€ ã§æŽ¥ç¶šã§ãã‚‹
 
-‚¢‚í‚ä‚éu•ÏŠ·ƒAƒ_ƒvƒ^[v‚Æ‚µ‚ÄŽg‚¤
+ã„ã‚ã‚†ã‚‹ã€Œå¤‰æ›ã‚¢ãƒ€ãƒ—ã‚¿ãƒ¼ã€ã¨ã—ã¦ä½¿ã†
 
-Ý’èƒc[ƒ‹‚©‚çupdate‚ð‰Ÿ‚µBootLoader‚ð‹N“®
-HEXƒtƒ@ƒCƒ‹‚ð‘I‚ñ‚Å‘‚«Š·‚¦
+è¨­å®šãƒ„ãƒ¼ãƒ«ï¼ˆMicroã® matrixç”¨ï¼‰ã‹ã‚‰updateã‚’æŠ¼ã—BootLoaderã‚’èµ·å‹•
+HEXãƒ•ã‚¡ã‚¤ãƒ«ã‚’é¸ã‚“ã§æ›¸ãæ›ãˆ
 
-‰ñ˜H}‚Ì‚Ç‚¨‚è‘Î‰ž‚·‚éƒsƒ“‚ð”zü‚·‚é
+å›žè·¯å›³ã®ã©ãŠã‚Šå¯¾å¿œã™ã‚‹ãƒ”ãƒ³ã‚’é…ç·šã™ã‚‹
 
-ƒ\[ƒXƒtƒ@ƒCƒ‹i•ÏX‚Ímain.c‚¾‚¯j‚à’u‚¢‚Ä‚¨‚«‚Ü‚·
+ã‚½ãƒ¼ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆå¤‰æ›´ã¯main.cã ã‘ï¼‰ã‚‚ç½®ã„ã¦ãŠãã¾ã™
 
